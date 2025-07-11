@@ -5,9 +5,9 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
-import Contacts from "./pages/Contacts";
+import Contacts from "./pages/Conatcts/Contacts";
 import ProjectDetail from "./pages/ProjectDetail";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer";
 import ThankYou from "./pages/ThankYou";
 
