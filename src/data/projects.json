@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "portfolio",
+    "title": "Portfolio Website",
+    "fullDescription": "Built using React, Framer Motion…",
+    "link": "https://…",
+    "repo": "https://github.com/…",
+    "screenshots": ["/images/port1.png", "/images/port2.png"]
+  }
+]
