@@ -1,11 +1,11 @@
 import React from "react";
 import "./ProjectCard.css";
 
-const ProjectCard = ({ title, description, link }) => (
+const ProjectCard = ({ title, description, repo }) => (
   <div className="project-card">
     <h3>{title}</h3>
     <p>{description}</p>
-    <a href={link} target="_blank" rel="noopener noreferrer">View Project</a>
+    <a href={repo} target="_blank" rel="noopener noreferrer">View Project</a>
   </div>
 );
 

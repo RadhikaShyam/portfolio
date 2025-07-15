@@ -2,9 +2,17 @@
   {
     "slug": "portfolio",
     "title": "Portfolio Website",
-    "fullDescription": "Built using React, Framer Motion…",
-    "link": "https://…",
-    "repo": "https://github.com/…",
+    "fullDescription": "The Portfolio Project is a fully responsive personal website built using React.js, designed to showcase my work, skills, projects, and contact google form. It serves as a digital resume and professional identity for developers.",
+    "link": "https://github.com/RadhikaShyam/portfolio/blob/master/README.md",
+    "repo": "https://github.com/RadhikaShyam/portfolio",
+    "screenshots": ["/images/port1.png", "/images/port2.png"]
+  },
+  {
+    "slug": "FlightManagement",
+    "title": "Flight Management API",
+    "fullDescription": "The Flight Management API is a robust and secure backend system designed to manage airline operations, including flight scheduling, booking, and administration. Built using ASP.NET Core Web API in C#, this RESTful API provides endpoints for managing flights, passengers, and bookings, with secure access and role-based authorization.",
+    "link": "https://github.com/RadhikaShyam/FlightManagementAPI/blob/main/README.md",
+    "repo": "https://github.com/RadhikaShyam/FlightManagementAPI",
     "screenshots": ["/images/port1.png", "/images/port2.png"]
   }
 ]

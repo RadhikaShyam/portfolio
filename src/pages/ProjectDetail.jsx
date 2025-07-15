@@ -15,8 +15,7 @@ export default function ProjectDetail() {
         {project.screenshots.map((src, i) => (
           <img key={i} src={src} alt="" style={{ maxWidth: '100%', marginBottom: '1rem' }}/>
         ))}
-        <a href={project.link} target="_blank" rel="noopener noreferrer">View Live</a>
-        <a href={project.repo} target="_blank">View Source</a>
+        <a href={project.link} target="_blank" rel="noopener noreferrer">View Project Details</a>
       </section>
     </Reveal>
   );
